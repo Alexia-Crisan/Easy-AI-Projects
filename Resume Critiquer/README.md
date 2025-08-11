@@ -3,8 +3,14 @@
 An AI-powered resume feedback tool built with **Streamlit** and **OpenAI's GPT models**.  
 Upload your resume (PDF or TXT) and receive constructive, tailored feedback to improve your chances of landing the job.
 
+---
+
+## Screenshots
+
 ![Screenshot of the upload interface](images/int.png)
 ![Screenshot of the feedback results](images/res.png)
+
+---
 
 ## Features
 

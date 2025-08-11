@@ -7,7 +7,13 @@ This assistant can:
 - Greet users
 - Be extended with more tools
 
+---
+
+## Screenshot
+
 ![CLI Screenshot - Greeting Example](ex.png)
+
+---
 
 ## Features
 
