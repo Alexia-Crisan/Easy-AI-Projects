@@ -1,4 +1,4 @@
-# 🖼️ AI Image Classifier
+# AI Image Classifier
 
 A simple **image classification app** built with **Streamlit**, **TensorFlow Keras (MobileNetV2)**, and **OpenCV**.  
 This app can:
